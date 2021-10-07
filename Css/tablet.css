@@ -1,0 +1,35 @@
+html{
+    font-size: 70%;
+}
+.header__title-container .header__button{
+    width: 250px;
+}
+.main-tables-container{
+    justify-content: center;
+}
+.main-currency-table .currency-table__date{
+    width:220px;
+}
+
+.main-comissions-table .comissions-table__date{
+    width:220px;
+}
+
+.product-cards__container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.bitcoin-img-container h2{
+    font-size: 3.5rem;
+
+}
+
+
+.plans-container__slider{
+    justify-content: center;
+    height: 340px;
+}
+

@@ -1,0 +1,21 @@
+html{
+    font-size: 80%;
+}
+.header__title-container .header__button{
+    width: 270px;
+}
+
+.main-currency-table .currency-table__date{
+    width:250px;
+}
+
+.main-comissions-table .comissions-table__date{
+    width:250px;
+}
+.plans-container__slider{
+    height: 350px;
+}
+
+.plans-container__card{
+    height: 280px;
+}
